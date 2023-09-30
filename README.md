@@ -15,7 +15,7 @@ Python
 Flask (Bibliotecas: flask_sqlalchemy (Banco de dados), flask_bcrypt (Criptografia de senha), flask_login (Login manager), werkzeug (segurança de arquivo), flask_wtf (formulários))
 HTML 
 CSS 
-Banco de dados (SQLite)
+Banco de dados (postgreslq)
 
 
 Capturas de Tela
