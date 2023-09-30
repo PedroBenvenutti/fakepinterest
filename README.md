@@ -12,10 +12,10 @@ Feed de Fotos: Os usuários podem acessar um feed de fotos que mostra todas as i
 
 Tecnologias Utilizadas
 Python
-Flask (Framework Web)
-HTML (para a estrutura da página)
-CSS (para a estilização)
-Banco de dados (MySQL)
+Flask (Bibliotecas: flask_sqlalchemy (Banco de dados), flask_bcrypt (Criptografia de senha), flask_login (Login manager), werkzeug (segurança de arquivo), flask_wtf (formulários))
+HTML 
+CSS 
+Banco de dados (SQLite)
 
 
 Capturas de Tela
